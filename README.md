@@ -1,2 +1,2 @@
-un barco esta mas seguro en el puerto que en el mar abierto, pero no es para lo que fue creado
+Um navio é mais seguro no porto do que em mar aberto, mas não foi para isso que ele foi criado.
 
